@@ -1,0 +1,27 @@
+{
+  "name": "cms-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatrielNanthaveth/cms-portfolio.git"
+  },
+  "author": "cartinanthaveth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatrielNanthaveth/cms-portfolio/issues"
+  },
+  "homepage": "https://github.com/CatrielNanthaveth/cms-portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
